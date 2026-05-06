@@ -1,0 +1,16 @@
+Python To-Do List App
+A simple command-line based To-Do List application built using Python. This project allows users to input tasks and display them in an organized numbered list.
+Features
+Add multiple tasks dynamically
+Store tasks in a list
+Display tasks in a numbered format
+Beginner-friendly Python project
+python-internship/
+│── main.py
+│── todo.py
+│── README.md
+How It Works
+User enters the number of tasks
+Program takes input for each task
+Tasks are stored in a list
+Tasks are displayed using enumerate()
